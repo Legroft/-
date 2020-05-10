@@ -1,22 +1,3 @@
----
-title: Hdu计算机网络实验一，常用网络命令的使用
-author: Legroft
-top: false
-cover: false
-toc: true
-mathjax: false
-date: 2020-5-10 14:03:48
-tags:
-- 计算机网络
-img:
-coverImg:
-summary: Hdu计算机网络实验一，使用ping、ipconfig(/winipcfg)、netstat、tracert等命令工具来进行测试
-categories:
-- 计算机网络
----
-
-> 实验指导书：https://github.com/Legroft/ComputerNetwork
-
 #### 实验目的
 
 1. 熟悉使用ping、ipconfig(/winipcfg)、netstat、tracert等命令工具来进行测试；
