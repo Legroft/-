@@ -1,22 +1,3 @@
----
-title: Hdu计算机网络实验二，Packet Tracer简单局域网组建和配置
-author: Legroft
-top: false
-cover: false
-toc: true
-mathjax: false
-date: 2020-5-11 17:14:45
-tags:
-- 计算机网络
-img:
-coverImg:
-summary: Hdu计算机网络实验二，Packet Tracer简单局域网组件和配置
-categories:
-- 计算机网络
----
-
-> 实验指导书：https://github.com/Legroft/ComputerNetwork
-
 #### 实验目的
 
 1. 认识Packet Tracer 。
