@@ -1,20 +1,3 @@
----
-title: Hdu计算机网络实验三，交换机级联PC之间的互通
-author: Legroft
-top: false
-cover: false
-toc: true
-mathjax: false
-date: 2020-5-12 20:44:51
-tags:
-- 计算机网络
-img:
-coverImg:
-summary: Hdu计算机网络实验三，交换机级联PC之间的互通
-categories:
-- 计算机网络
----
-
 > 实验指导书：https://github.com/Legroft/ComputerNetwork
 
 ### 实验目的
