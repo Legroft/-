@@ -1,20 +1,3 @@
----
-title: Hdu计算机网络实验四，动态路由协议RIP的配置
-author: Legroft
-top: false
-cover: false
-toc: true
-mathjax: false
-date: 2020-5-13 16:57:09
-tags:
-- 计算机网络
-img:
-coverImg:
-summary: Hdu计算机网络实验四，动态路由协议RIP的配置
-categories:
-- 计算机网络
----
-
 > 实验指导书：https://github.com/Legroft/ComputerNetwork
 
 ### 实验目的
